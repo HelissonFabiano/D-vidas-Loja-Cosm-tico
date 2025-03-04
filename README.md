@@ -1,0 +1,1 @@
+O objetivo do projeto é somar o valor dos boletos (a vencer e vencidos) de uma pequena loja de revenda de cosméticos, utilizando as informações disponíveis no site https://revendedor.boticario.com.br/
